@@ -1,11 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
 
 /* Smooth transition for color changes */
 html {
   transition: background-color 0.3s, color 0.3s;
 }
-=======
->>>>>>> 9386916223ecbab8f00ea3346d3d9ab0a67364f0
